@@ -3,7 +3,7 @@ package GoTelegram
 import(
         "time"
         //log "./golang/src/github.com/r4y/GoTelegram/log"
-        logging "github.com/r4y/GoTelegram/logging"
+        logging "github.com/R4yGM/GoTelegram/logging"
         "fmt"
 )
 type Token struct {
